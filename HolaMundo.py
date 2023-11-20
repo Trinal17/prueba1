@@ -1,2 +1,3 @@
 print('Hola mundo')
-print('nuevo Mensaje')
+print('Nuevo Mensaje')
+print("Tercer mensaje para probar git reset")
